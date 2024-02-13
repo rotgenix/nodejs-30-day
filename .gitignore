@@ -1,6 +1,8 @@
-/03-Child-Process/node_modules
-/06-Greet-API/node_modules
-/07-Print-HTTP-Method/node_modules
-/08-Error-Handler/node_modules
-/10-Static-Files/node_modules
-/11-JWT/node_modules
+# /03-Child-Process/node_modules
+# /06-Greet-API/node_modules
+# /07-Print-HTTP-Method/node_modules
+# /08-Error-Handler/node_modules
+# /10-Static-Files/node_modules
+# /11-JWT/node_modules
+
+**/node_modules
